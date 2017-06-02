@@ -1,6 +1,6 @@
 ### Project 2 - Regression and Classification with the Ames Housing Data
 
-This project is based on data from [Kaggle competition.](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), containing 79 features describing residential properties in Ames, Iowa.
+This project is based on data from [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), containing 79 features describing residential properties in Ames, Iowa.
 
 After cleaning the dataset, creating visualizations and examining potential correlations between features in the EDA phase, the next step was to predict the price of the houses with Linear Regression using only fixed characteristics of the properties.
 
