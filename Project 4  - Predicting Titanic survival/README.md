@@ -14,8 +14,9 @@ Next stage of the study was to deploy various classification models and assess t
 #### Findings
 
 The table below shows accuracy scores for our models:
+
 Model |	Accuracy score
----|---
+--- | ---
 Logistic Regression |	0.79 (0.77 CV)
 Ridge |	0.78 (0.78 CV)
 kNN |	0.76
