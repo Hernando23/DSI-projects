@@ -13,7 +13,7 @@ Next stage of the study was to deploy various classification models and assess t
 
 #### Findings
 
-The table below shows accuracy scores for our models:
+The table below shows accuracy scores for all models:
 
 Model |	Accuracy score
 --- | ---
