@@ -20,7 +20,7 @@ Data dictionary for vehicles table:
 <img src="assets/data_dict1.png" style="width: 600px;">
 
 Data dictionary for accidents table:
-<img src="assets/data_dict2.png" style="width: 600px;">
+<img src="assets/data_dict2.png" style="width: 400px;">
 
 
 The data dictionaries concernig the datasets subject of this project have been composed using information acquired from [Data.gov.uk](https://data.gov.uk/dataset/road-accidents-safety-data). The process of determining which column could be used in further analysis and modeling and serve as a variable consisted of the following steps:
@@ -33,7 +33,7 @@ The data dictionaries concernig the datasets subject of this project have been c
 
 The ultimate dataframe on which all the modelling has been performed, contained the following features:
 
-<img src="assets/features.png">
+<img src="assets/features.png" style="width: 300px;">
 
 ### Identification of outliers
 
